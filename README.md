@@ -137,14 +137,6 @@ online-bookstore-sql/
 |
 │── query_results.png
 ```
-
-**Folder descriptions:**
-
-- `data/` — Contains the three CSV datasets, if you choose to include them.
-- `sql/` — Contains the SQL queries used to solve the project questions.
-- `screenshots/` — Contains screenshots of selected SQL queries and their results.
-- `README.md` — Documents the project, datasets, business questions, and SQL skills demonstrated.
-
 *This is a suggested structure. Adjust the file and folder names to match your actual repository.*
 
 ## 🚀 Key Takeaways
