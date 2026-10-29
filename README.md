@@ -129,16 +129,13 @@ online-bookstore-sql/
 │
 ├── README.md
 │
-├── data/
-│   ├── Books.csv
-│   ├── Customers.csv
-│   └── Orders.csv
+├── Books.csv
+│── Customers.csv
+│── Orders.csv
 │
-├── sql/
-│   └── online_bookstore_queries.sql
-│
-└── screenshots/
-    └── query_results.png
+│── online_bookstore_queries.sql
+|
+│── query_results.png
 ```
 
 **Folder descriptions:**
